@@ -24,6 +24,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
 //Test git
+// test github
     
 // Set the default background image
     self.backgroundImage.image = [UIImage imageNamed:@"flowers"];
